@@ -1,6 +1,6 @@
 # Deploy and Host LobeHub (Lobe Chat) on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/lobe-chat?utm_medium=integration&utm_source=button&utm_campaign=lobe-chat)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/lobehub-chat?utm_medium=integration&utm_source=button&utm_campaign=lobehub-chat)
 
 This template deploys the server edition of [LobeHub](https://lobehub.com) (formerly Lobe Chat): a multi-user AI workspace with chat, agents, file uploads, knowledge bases and image generation, talking to any model provider you configure. Everything it needs is provisioned for you: a ParadeDB Postgres with the `pgvector` and `pg_search` extensions LobeHub requires, and a Railway Storage Bucket for uploads. Open your domain, create the first account, and start chatting.
 
