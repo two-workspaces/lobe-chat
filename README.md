@@ -1,4 +1,4 @@
-# Deploy and Host Lobe Chat (LobeHub) on Railway
+# Deploy and Host LobeHub (Lobe Chat) on Railway
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/lobe-chat?utm_medium=integration&utm_source=button&utm_campaign=lobe-chat)
 
