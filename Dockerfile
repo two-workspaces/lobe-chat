@@ -1,4 +1,4 @@
-FROM lobehub/lobehub:2.2.16
+FROM lobehub/lobehub:2.2.21
 
 # Railway launcher (runs as root, then drops to the image's nextjs user):
 # waits for Postgres, persists a generated JWKS_KEY on the volume, sets CORS on
